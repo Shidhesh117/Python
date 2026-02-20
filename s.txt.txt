@@ -1,0 +1,1 @@
+This program ensures that the student's marks are stored in a list, calculates the total marks and percentage, and displays all the relevant information. If you need any further assistance or modifications, feel free to ask!
